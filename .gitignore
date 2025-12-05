@@ -1,0 +1,45 @@
+# Virtual Environment
+newenv/
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Model Files (too large for GitHub)
+models/
+artifacts/
+*.h5
+*.keras
+*.pkl
+*.pth
+
+# Data
+*.zip
+cats_and_dogs_filtered/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+training_curves.png
