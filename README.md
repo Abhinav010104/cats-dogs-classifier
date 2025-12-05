@@ -1,6 +1,6 @@
 # Cats vs Dogs CNN Classification
 
-A deep learning project using **transfer learning** with MobileNetV2 to classify images as cats or dogs. Achieves high accuracy through fine-tuning a pretrained ImageNet model on the curated cats-and-dogs dataset.
+A deep learning project using **transfer learning** with MobileNetV2 to classify images as cats or dogs. Achieves high accuracy(~98%) through fine-tuning a pretrained ImageNet model on the curated cats-and-dogs dataset.
 
 ## 📊 Project Overview
 
@@ -25,9 +25,8 @@ A deep learning project using **transfer learning** with MobileNetV2 to classify
 ```
 cats-dogs-cnn/
 ├── train_optimized.py     # Transfer learning with MobileNetV2
-├── train.py               # Alternative training script
 ├── app.py                 # Streamlit web interface for predictions
-├── test_tfds.py          # Dataset loading example using TensorFlow Datasets
+├── test_tfds.py           # Dataset loading example using TensorFlow Datasets
 ├── models/
 │   ├── best_model.h5     # Saved model (HDF5 format)
 │   └── best_model.keras  # Saved model (Keras format)
@@ -115,7 +114,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-Created as a deep learning portfolio project demonstrating best practices in computer vision and transfer learning.
+Created by Abhinav as part of the IBM Virtual Internship in AI (2025). Demonstrates best practices in computer vision and transfer learning.
 
 ---
 
