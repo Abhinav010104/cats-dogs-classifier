@@ -45,7 +45,7 @@ cats-dogs-cnn/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Abhinav010104/cats-dogs-cnn.git
+   git clone https://github.com/Abhinav010104/cats-dogs-classifier.git
    cd cats-dogs-cnn
    ```
 
