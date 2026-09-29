@@ -46,7 +46,7 @@ cats-dogs-cnn/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Abhinav010104/cats-dogs-classifier.git
-   cd cats-dogs-cnn
+   cd cats-dogs-classifier
    ```
 
 2. **Create a virtual environment** (recommended)
